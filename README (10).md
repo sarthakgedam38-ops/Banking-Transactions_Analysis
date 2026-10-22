@@ -70,10 +70,19 @@ The Power BI report has three pages, each with a KPI strip (Total Transactions, 
 | **Customer Insights** | Customers by channel, total vs unique customers, unique customers by state, customers by account type |
 | **Financial Performance** | Transactions by account type, transactions by merchant category, customers by loan category, transactions by month |
 
-<!-- Add dashboard screenshots here, for example:
-![Transaction Trends](images/transaction_trends.png)
-![Customer Insights](images/customer_insights.png)
-![Financial Performance](images/financial_performance.png)
+< Add dashboard screenshots here, for example:
+Page 1
+
+<img width="1317" height="725" alt="Page_1" src="https://github.com/user-attachments/assets/2ce9e8b8-62fd-4c4a-8aea-fc4d8380f599" />
+
+Page 2
+
+<img width="1316" height="723" alt="Page_2" src="https://github.com/user-attachments/assets/7803fe1b-3076-4d7a-9abd-0262b3f2999b" />
+
+Page 3
+
+<img width="1318" height="726" alt="Page_3" src="https://github.com/user-attachments/assets/f1e07991-28bd-44c4-be44-5e5c46f4a26a" />
+
 -->
 
 ## DAX Measures
@@ -155,5 +164,5 @@ Banking-Transaction-Analytics/
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Email](mailto:your-email@example.com)
+**[Sarthak Gedam]**
+[LinkedIn](www.linkedin.com/in/sarthak-gedam-ab6a4b292) | [GitHub](https://github.com/your-username) | [Email](sarthakgedam38@gmail.com)
