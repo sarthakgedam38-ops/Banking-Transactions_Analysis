@@ -174,8 +174,3 @@ when Loan_Type is null or Loan_Type in ('', 'None') then 'Unknown Loan Type'
 else Loan_Type
 end;
 
-select * from Bank;
-
-SELECT user, host, plugin FROM mysql.user WHERE user = 'root';
-SELECT VERSION();
-
